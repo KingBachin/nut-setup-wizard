@@ -30,7 +30,7 @@ This script simplifies the setup and monitoring of UPS (Uninterruptible Power Su
 
 ## 📦 Installation
 ```bash
-curl -O https://raw.githubusercontent.com/KingBachin/nut-setup-wizard/main/ups-setup.sh
+sudo curl -O https://raw.githubusercontent.com/KingBachin/nut-setup-wizard/main/ups-setup.sh
    ```
 1. Make the script executable:
    ```bash
