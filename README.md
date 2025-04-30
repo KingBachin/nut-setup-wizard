@@ -1,4 +1,4 @@
-# ups-setup-wizard
+# Network UPS Tools (NUT) Setup Wizard
 Auto-detect and configure Network UPS Tools (NUT) with multi-UPS support, Telegram alerts, and server/client modes — perfect for Raspberry Pi and Linux systems.
 
 This script simplifies the setup and monitoring of UPS (Uninterruptible Power Supply) systems using Network UPS Tools (NUT). It supports both local (server) and remote (client) UPS monitoring, and optionally sends Telegram alerts when power events occur.
