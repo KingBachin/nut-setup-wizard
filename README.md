@@ -41,7 +41,7 @@ This script simplifies the setup and monitoring of UPS (Uninterruptible Power Su
 
 ---
 
-## ✅ Example Test Commands
+## ✅ Test Commands
 After installation, use the following to check UPS status:
 
 ```bash
