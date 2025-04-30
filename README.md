@@ -24,7 +24,7 @@ This script simplifies the setup and monitoring of UPS (Uninterruptible Power Su
 
 ---
 
-## 📦 Installation & Usage
+## 📦 Installation
 1. Make the script executable:
    ```bash
    chmod +x ups-setup.sh
