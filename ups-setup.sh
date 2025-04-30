@@ -29,8 +29,8 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 # --- Install Dependencies ---
-apt update
-apt install -y nut nut-client nut-server nut-scanner whiptail curl
+sudo apt update
+sudo apt install -y nut nut-client nut-server whiptail curl
 
 # --- Mode Selection ---
 MODE=$(whiptail --title "UPS Setup Mode" --menu "Select setup mode:" 15 60 3 \
